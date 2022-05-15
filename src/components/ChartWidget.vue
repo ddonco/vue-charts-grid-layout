@@ -16,7 +16,7 @@
         </div>
       </div>
     </header>
-    <v-chart :option="option" autoresize="true" />
+    <v-chart :option="option" :autoresize="true" />
   </div>
 </template>
 
